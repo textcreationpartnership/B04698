@@ -1,0 +1,255 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the learned and worthy artist Mr. Grinsted [sic] Gibbons.</title>
+            <author>Philipps, Samuel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04698</idno>
+            <idno type="OCLC"> 13494201</idno>
+            <idno type="STC">Wing P2024</idno>
+            <idno type="STC">Interim Tract Supplement Guide 806.k.16[131]</idno>
+            <idno type="STC">ESTC R5867</idno>
+            <idno type="EEBO-CITATION">99890785</idno>
+            <idno type="PROQUEST">ocm99890785</idno>
+            <idno type="VID">181726</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04698)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181726)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:1[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the learned and worthy artist Mr. Grinsted [sic] Gibbons.</title>
+                  <author>Philipps, Samuel.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for James Norris, at the signe of the Kings-Arms without Temple-bar.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Sam. Philipps.</note>
+                  <note>The artist's name is Grinling Gibbons.</note>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gibbons, Grinling, 1648-1721 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:181726:1" rendition="simple:additions"/>
+            <head>TO The Learned and Worthy ARTIST Mr. Grinſted Gibbons.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IT was not out of a preſumption that theſe poor Lines could adde any thing to the Glories you have atchieved in the carving of that Matchleſs Statue of his Majeſty, that incited me to lay them at your feet; ſince you have done that in Symmetry, beyond what Verſe is able to ſhew. The cadencies of it cannot run ſo ſmooth, as your hand has done, in the poliſhing of that admired Figure; nor do I expect they ſhould any more affect you than the beſt of the School-Harangues ſhould the intent <hi>Phidias</hi> while he was cutting his <hi>Minerva</hi> at <hi>Athens,</hi> or the Warlike <hi>Games</hi> while he was forming his Olympick <hi>Jupiter</hi> at <hi>Elis.</hi> No, Sir, it was not out of any ſuch Conſideration that I took the boldneſs to attempt the celebrating of your Name, but out of the charitable opinion you might put upon it, that any perſon who reveres his Prince, muſt neceſſarily have a peculiar regard for you; ſince you have in a more than ordinary method endeavoured to immortalize his Name: which nothing but his own Heroick Acts, Clemency, and Vertues could ex<g ref="char:EOLhyphen"/>ceed. They indeed will ſhine when Time ſhall be no more, and Marble crumble into duſt, outlive Hiſtory; and while Mankind is upon Earth, though Letters be loſt, be tranſmitted in a ſolemn and exemplary Tradition, ſo long as the Globe endures. But you have done as far as Art can do, and your Name at the bottom will be of more eſteem than when on the ancient Pictures and Statues was ſubſcrib'd, <hi>Titianus fecit,</hi> or <hi>Ephidias</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>In ſtriving thus to Eternize that of your Prince, you have at the ſame time per<g ref="char:EOLhyphen"/>petuated your own; and in a politick method, with reverence to the Simily, have as it were in ſuch a manner ingrafted your ſelf into Royalty, that while the Majeſtick Figure laſts, your own Name will be recorded with it; and Poſterity left, whilſt by the God-like Air it admires the one, to pay a due reſpect to the other, for the kind<g ref="char:EOLhyphen"/>neſs of ſo grateful a Memoir.</p>
+            <p>This Noble Product of yours, methinks, admits of another Nicety too; it is a pro<g ref="char:EOLhyphen"/>duction of the Brain more than the Hand, as that of <hi>Pallas</hi> was from <hi>Jupiter's:</hi> Whence could be elſe that extraordinary <hi>Pathos</hi> that it ſtrikes even but a common Spectator withal? The dulleſt Peaſant is affected, though he knows not why; and it touches upon all but the diſaffected: and I have that charity to think that it may hit there too, upon the account of Remorſe, and at length proceed to that of a dutiful Reverence; and <hi>Janus</hi>-like, conduct both ways to the Paths of Peace.</p>
+            <pb n="2" facs="tcp:181726:2"/>
+            <p>Thus you act the Statuary and the Orator at the ſame time, and write a Treatiſe of the Paſſions in a Marble-book. <hi>Speak to me that I may ſee thee,</hi> ſays the Philo<g ref="char:EOLhyphen"/>ſopher; but, <hi>Look upon this, and it will ſpeak to thee,</hi> ſays the Carver. Look upon this Royal Figure, and who will not be ſtedfaſt in his Loyalty? Look upon this, ye diſobedient, and who again dare rebel? A ſoft, yet powerful Voice ſeems to iſſue from it, that cheerfully encourages the one, and formidably deters the other.</p>
+            <p>Neither does your Talent lie this way alone, in the raiſing of the Paſſions, but you inſtruct well-nigh the whole learned World, the better Series of Mankind. The ex<g ref="char:EOLhyphen"/>quiſite Anatomiſt may come to you for inſtructions, and find a Treatiſe of the Muſcles, beyond what their Books or Lectures can inſtruct them in. Nay, the exact Phyſio<g ref="char:EOLhyphen"/>gnomiſt and the moſt ſubtle Palmiſt may follow, to borrow his bigger and more noted lines, and appear better ſatisfied than in all the abſtruſe Notions that have hitherto been wrote on that ſubject.</p>
+            <p>Thus you ſit enthron'd at the head of all the Mechanical, and almoſt the Political Arts: for there is a great part of them interwoven amongst it. But how you have amounted to this height, by what degrees, it is beyond my Province to trace. You muſt certainly have had towards the compoſition of this, the ſtrength of Fancie, frank Facility, conception of the Paſſions, the comely Dimenſions, Invention, and Grace of all your Predeceſſors; and have work'd it up not onely <hi>Con Diligenza,</hi> (as the <hi>Ita<g ref="char:EOLhyphen"/>lians</hi> phraſe it) but <hi>Con Studio, Con Amore:</hi> Not with an ordinary Judgment, but with a ſtudied and a loving one, as being in ſuch a kind of a Rapture and extaſie as heighten'd the Proportions, and you your ſelf as it were diſembodied.</p>
+            <p>But I go beyond my Sphere, and beg my pardon for having diverted ſo great an Artiſt from thoſe obliging Strokes the World ſtill expects to be gratified by. But this is your happineſs, that you can never leave a greater Expectation than what you are able to perform; and evading the Saying of that great Roman Orator, Indulge the moſt ingenious Fancy in what they are capable to give but a rude draught of, and heighten it ſo far above their wiſhes, that they ſhall ſcarce know it to be their own.</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>I am Your Friend and Servant to command, <hi>SAM. PHILIPPS.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb n="3" facs="tcp:181726:2"/>
+            <head>On Mr. <hi>Gibbons</hi> his carving the Matchleſs Statue of the King Erected in the middle of the <hi>Royal Exchange.</hi>
+            </head>
+            <lg>
+               <l>DEep in the Boſom of the <hi>Paphian</hi> Iſle,</l>
+               <l>Where more peculiarly the Sun does ſmile,</l>
+            </lg>
+            <lg>
+               <l>There lay a Marble-quarry white as Snow,</l>
+               <l>On which he thick his piercing Rays did throw,</l>
+               <l>And in more ample ſort his nobler heats beſtow.</l>
+            </lg>
+            <lg>
+               <l>A part of this, from many a Marble more</l>
+               <l>Of different ſorts that were kept up in ſtore,</l>
+               <l>Skill'd <hi>GIBBONS</hi> choſe; it was a lovely Stone,</l>
+               <l>And fit for ſuch a Hand to work upon:</l>
+               <l>Fit (as a Stone could be) the Badge to wear</l>
+               <l>Of <hi>England</hi>'s Monarch, and his Image bear.</l>
+               <l>By all the Planets tinctur'd, that we find</l>
+               <l>To favour Greatneſs, and to Princes kind:</l>
+               <l>But chiefly influenc'd by that which ſhone,</l>
+               <l>And at his birth appear'd, at Noon-days Sun.</l>
+               <l>Of that it ſtrongly did the power feel,</l>
+               <l>And by't was made more pliant to the Steel.</l>
+               <l>Thus ting'd from Heaven, 'tis virtually bred</l>
+               <l>A Taliſman, or ſtone conſtellated;</l>
+               <l>Which when ſet up, the Nations Wounds ſhall heal,</l>
+               <l>As the Braſs Serpent thoſe of <hi>Iſrael.</hi>
+               </l>
+               <l>A Stone which will do many a wondrous thing,</l>
+               <l>When once ſtamp'd with the likeneſs of a King.</l>
+            </lg>
+            <lg>
+               <l>This to himſelf the learned Artiſt ſpoke,</l>
+               <l>And did foretel, ere once he gave a ſtroke.</l>
+               <l>And now, as in deep Trance, or deeper Thought,</l>
+               <l>He hunts the fair Idea's that are wrought</l>
+               <l>Around the Cells of his well-temper'd Brain,</l>
+               <l>For Figures Royal of a Noble ſtrain.</l>
+               <l>The Features there and forms of things lie hid</l>
+               <l>In order, as in Natures pregnant Bed.</l>
+               <l>He prays his Guardian-Genius would prove kind,</l>
+               <l>And Shapes Majeſtick offer to his mind.</l>
+               <l>He heard, and skilfully did for him frame</l>
+               <l>A bright Idea, and with force it came:</l>
+               <l>And ſoon throughout its Plaſtick power diſplays,</l>
+               <l>Round the whole Maſs its Energy conveys.</l>
+               <l>Each Joynt it works on, and each Tendon ſmall,</l>
+               <l>And guides his hand, at e'ry ſtroke let fall.</l>
+            </lg>
+            <pb n="4" facs="tcp:181726:3"/>
+            <lg>
+               <l>Thus aided, as he wrought it ſhap'd apace,</l>
+               <l>And e'ry motion gave a novel Grace.</l>
+               <l>From its firſt form ſtill as the Marble roſe</l>
+               <l>And heightned up, and did freſh Airs diſcloſe.</l>
+               <l>The Artiſt poliſh'd with a trembling hand,</l>
+               <l>And did in awe of the great Figure ſtand.</l>
+               <l>In wonder wrapt at his own Products now,</l>
+               <l>Himſelf had like to'ave turn'd to Marble too.</l>
+               <l>He ſweat as that leſt any wayward ſtroke</l>
+               <l>Should break the meaſures in his mind he took.</l>
+               <l>Proceeding on with reverential fear,</l>
+               <l>To finiſh up its Regal Character.</l>
+               <l>At length he gives the main ſtrokes he intends,</l>
+               <l>And from his hands th' amazing Figure ſends.</l>
+            </lg>
+            <lg>
+               <l>With what Auguſt and what Majeſtick meen,</l>
+               <l>Becoming ſuch a Monarch is, it ſeen!</l>
+               <l>How vivid does it look! how aptly fit</l>
+               <l>The Royal Garb; the Joynts how firmly knit!</l>
+               <l>The well-wrought Muſcles how they aptly ſwell,</l>
+               <l>And by their riſe their ſpringie Tendons tell.</l>
+               <l>How duely plac'd is e'ry branching Vein!</l>
+               <l>'Twould bear the teſt of wary <hi>Bartholine.</hi>
+               </l>
+               <l>What Royal Vigour is throughout diſplay'd!</l>
+               <l>How artfully, yet wonderfully made!</l>
+               <l>A Kingly Symmetry each part does ſhow,</l>
+               <l>And an Heroick Air around does flow.</l>
+               <l>It does outdo old <hi>Memnon</hi>'s Royal Shrine,</l>
+               <l>And is harmonious, though the Sun not ſhine,</l>
+            </lg>
+            <lg>
+               <l>And now the well-carv'd Baſis does await</l>
+               <l>The Glories to receive of its great fraight.</l>
+               <l>With ſuch exactneſs carv'd, and a nice care,</l>
+               <l>As holy Nuns embroider Books for Pray'r:</l>
+               <l>Or ſacred Hermits, when with fear and awe,</l>
+               <l>Their Patron-Saints with trembling quills they draw.</l>
+               <l>'Tis fixt: from its four quarters Angels ſound</l>
+               <l>Their joyful Trumps; the Area does rebound.</l>
+            </lg>
+            <lg>
+               <l>Thus having finiſh'd this his Grand Deſigne,</l>
+               <l>He claps his hands, and does i'th' Chorus joyn;</l>
+               <l>Leaving the crowd of Artiſts that come near,</l>
+               <l>To gaze, to wiſh, admire, and to deſpair.</l>
+            </lg>
+            <bibl>
+               <hi>Sam. Philipps.</hi>
+            </bibl>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>James Norris,</hi> at the ſigne of the <hi>Kings-Arms</hi> without <hi>Temple-bar.</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
